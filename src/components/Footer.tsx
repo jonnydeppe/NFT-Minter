@@ -55,7 +55,7 @@ export const Footer: FC = () => {
                                 </a>
                             </div>
                             <div className="mb-6 m-1 sm:text-left place-items-start items-start font-normal tracking-tight text-secondary">
-                                        © 2023 Solana Foundation
+                                        © 2024 Wu Wei Web3
                             </div>
                         </div>
 
@@ -63,20 +63,20 @@ export const Footer: FC = () => {
                             <div className="font-normal capitalize mb-2.5">SOLANA</div>
 
                             <div className="flex flex-col mb-0 gap-2">
-                                <Link href="https://solana.com" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Labs
+                                <Link href="https://whop.com/fu-money-club/?a=wuweiweb3" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    FU Money
                                 </Link>
-                                <Link href="https://solana.org" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Foundation
+                                <Link href="https://dropz.cc/e/wget_w51aw04t7hkwn6p5uoj30" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    Dropz
                                 </Link>
-                                <Link href="https://solanamobile.com/" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Solana Mobile
+                                <Link href="https://www.luno.com/invite/EZWZC" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    Luno
                                 </Link>
-                                <Link href="https://solanapay.com/" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Solana Pay
+                                <Link href="https://lingoislands.com/?invite=FLWZL" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    $LINGO
                                 </Link>
-                                <Link href="https://solana.org/grants" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Grants
+                                <Link href="https://youtube.com/@wuweiweb3?sub_confirmation=1" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    YouTube
                                 </Link>
                             </div>
                         </div>
@@ -107,20 +107,14 @@ export const Footer: FC = () => {
                             <h5 className="font-normal tracking-tight  mb-2.5">ECOSYSTEM</h5>
 
                             <div className="flex flex-col mb-0 gap-2">
-                                <Link href="https://solana.com/news" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    News
+                                <Link href="https://x.com/wuweiweb3" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    Twitter
                                 </Link>
-                                <Link href="https://solana.org/validators" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Validators
+                                <Link href="https://t.me/wuskitchen" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    Telegram
                                 </Link>
-                                <Link href="https://www.youtube.com/@SolanaFndn" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Youtube
-                                </Link>
-                                <Link href="https://app.realms.today/discover" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Realms
-                                </Link>
-                                <Link href="https://www.solanau.org" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
-                                    Solana U
+                                <Link href="https://t.me/wuweiweb3" target="_blank" rel="noopener noreferrer" passHref className="text-secondary hover:text-white">
+                                    Telegram
                                 </Link>
                             </div>
                         </div>
