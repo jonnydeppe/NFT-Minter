@@ -32,11 +32,11 @@ export const HomeView: FC = ({ }) => {
       <div className="md:hero-content flex flex-col">
         <div className='mt-6'>
         <h1 className="mx-auto text-center w-auto text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-indigo-500 to-fuchsia-500 mb-4">
-          NFT Minter
+          $ZACK NFT Minter
         </h1>
         </div>
         <h4 className="md:w-full text-2x1 md:text-4xl text-center text-slate-300 my-2">
-          <p>Upload a pic and mint it to an NFT!</p>
+          <p>Upload your favorite $ZACK meme and mint it to an NFT!</p>
         </h4>
         { wallet.connected ? <div>
           <div className="flex flex-col mt-6">
