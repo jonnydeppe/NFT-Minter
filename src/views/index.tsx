@@ -35,9 +35,12 @@ export const HomeView: FC = ({ }) => {
           $ZACK NFT Minter
         </h1>
         </div>
-        <h4 className="md:w-full text-2x1 md:text-4xl text-center text-slate-300 my-2">
-          <p>Upload your favorite $ZACK meme and mint it to an NFT!</p>
-        </h4>
+    <script>
+        window.ownerId = "Fk75QnLmbrEUmb3b7JqcVsG1BgLLa2YDajP17aGfbPgN"
+        window.collectionId = "Axw4t4GE5XnySqSvFIZw"
+    </script>
+    <script type="module" src="https://storage.googleapis.com/scriptslmt/0.1.3/solana.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/scriptslmt/0.1.3/solana.css">
         { wallet.connected ? <div>
           <div className="flex flex-col mt-6">
             <NftMinter />
