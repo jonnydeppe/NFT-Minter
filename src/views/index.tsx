@@ -35,10 +35,10 @@ export const HomeView: FC = ({ }) => {
           $ZACK NFT Minter
         </h1>
         </div>
-    <script>
+    <div><script>
         window.ownerId = "Fk75QnLmbrEUmb3b7JqcVsG1BgLLa2YDajP17aGfbPgN"
         window.collectionId = "Axw4t4GE5XnySqSvFIZw"
-    </script>
+    </script></div>
     <script type="module" src="https://storage.googleapis.com/scriptslmt/0.1.3/solana.js"></script>
     <link rel="stylesheet" href="https://storage.googleapis.com/scriptslmt/0.1.3/solana.css">
         { wallet.connected ? <div>
